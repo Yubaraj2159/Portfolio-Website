@@ -3,9 +3,9 @@ import { FolderKanban } from "lucide-react";
 import Tilt from "react-parallax-tilt";
 
 const projects = [
-  { title: "Portfolio Website", description: "A personal portfolio using React and Tailwind CSS.", link: "#" },
-  { title: "Task Manager", description: "A responsive Task Manager web app built with React and Tailwind CSS, featuring dynamic task lifecycle management and route-based status filtering.", link: "#" },
-  { title: "To Do List", description: "A simple and interactive To-Do List app built with React for managing daily tasks efficiently.", link: "#" },
+  { title: "StockEase", description: "A stock management system made using PHP.", link: "#" },
+  { title: "TripMate", description: "A trip planning system UI made using React and Tailwind.", link: "#" },
+  { title: "Jewellery Shop Management System", description: "A system made using .NET.", link: "#" },
 ];
 
 const Projects = () => {
